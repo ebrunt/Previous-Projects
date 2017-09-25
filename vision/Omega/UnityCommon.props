@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>Wolverine Vision</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\Kevin\Downloads\EECS481-Wolverine-Vision\Omega\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\Kevin\Downloads\EECS481-Wolverine-Vision\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
